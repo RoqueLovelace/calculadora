@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\syntax-analyzer.V0.1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADB91D5-FCD9-473B-8004-9BC6BACD3018}|syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.vcxproj|C:\\Users\\chris\\source\\repos\\syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ADB91D5-FCD9-473B-8004-9BC6BACD3018}|syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.vcxproj|solutionrelative:syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "syntax-analyzer.V0.1.0.cpp",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.cpp",
+              "RelativeDocumentMoniker": "syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.cpp",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.cpp",
+              "RelativeToolTip": "syntax-analyzer.V0.1.0\\syntax-analyzer.V0.1.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T16:48:24.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
